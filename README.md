@@ -55,12 +55,12 @@ GET /user
   {
     "id": 1,
     "name": "akash",
-    "email": "akashkumarshuk805133@gmail.com"
+    "email": "akashkumarshuk000@gmail.com"
   },
   {
     "id": 2,
-    "name": "jagesh",
-    "email": "jageshshukla222@gmail.com"
+    "name": "xyz",
+    "email": "xyz@gmail.com"
   }
 ]
 ```
@@ -107,7 +107,7 @@ GET /user/1
 {
   "id": 1,
   "name": "akash",
-  "email": "akashkumarshuk805133@gmail.com"
+  "email": "akashkumarshuk00@gmail.com"
 }
 ```
 
