@@ -123,27 +123,6 @@ DELETE /user/2
 
 ```http
 204 No Content
-```
-
----
-
-## 🖼️ Screenshots
-
-> 🔻 Replace the image links below with your screenshots taken from Postman, browser, or terminal.
-
-### ✅ GET all users
-
-![GET /user](screenshots/get_users.png)
-
-### ✅ POST new user
-
-![POST /user](screenshots/post_user.png)
-
-### ✅ DELETE user
-
-![DELETE /user](screenshots/delete_user.png)
-
----
 
 ## 📄 License
 
